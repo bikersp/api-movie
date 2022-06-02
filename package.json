@@ -1,0 +1,19 @@
+{
+  "name": "api-movie",
+  "version": "1.0.0",
+  "description": "Api about movies",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikersp/api-movie.git"
+  },
+  "author": "Jean Cuadros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bikersp/api-movie/issues"
+  },
+  "homepage": "https://github.com/bikersp/api-movie#readme"
+}
